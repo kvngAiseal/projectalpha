@@ -1,0 +1,44 @@
+body{
+    background-color: teal;
+    background-image: url(smiley.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: crimson;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 200%;
+    border: 2px solid peru;
+    padding: 30px;
+    margin: 150px
+}
+h2{
+    color: darkorange;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    font-size: 100%;
+    border: 2px solid purple;
+    padding: 30px;
+    margin: 50px;
+}
+p{
+    color: yellowgreen;
+    font-family: monospace;
+    text-align: right;
+    font-size: x-large;
+    border:2px solid hotpink;
+    padding: 30px;
+    margin: 50px;
+}
+a{
+    color: red;
+    text-align: left;
+    font-size: 200%;
+    padding: 30px;
+    margin: 150px;
+}
+button{
+    
+}
