@@ -1,3 +1,3 @@
 # projectalpha
 First project
-lets begin
+lets begin with html basics
